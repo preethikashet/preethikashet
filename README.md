@@ -5,6 +5,7 @@ I am a __21__ y/o enthusiastic <img src="https://media.giphy.com/media/WUlplcMpO
 - 🌱Enthusiastic in exploring and learning new stuffs.
 - 👉 How to reach me : **![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)&nbsp;[Connect with me](https://www.linkedin.com/in/preethika-shet-120238231/)**
 - 📫 Mail me @[preethikashet07@gmail.com](𝚖𝚊𝚒𝚕𝚝𝚘:preethikashet07@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖)
+  
 
 ### `🛠️ Languages`
 
