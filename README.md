@@ -1,7 +1,7 @@
 ### `💻 About Me :`
 
-I am a __21__ y/o enthusiastic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
-- 📗 Currently pursuing my 4th year Bachelor of Engineering in Computer Science and Engineering.
+I am a __22__ y/o enthusiastic <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Karnataka, India.
+- 📗 Graduated from NMAMIT under the specialization of Computer Science and Engineering.
 - 🌱Enthusiastic in exploring and learning new stuffs.
 - 👉 How to reach me : **![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)&nbsp;[Connect with me](https://www.linkedin.com/in/preethika-shet-120238231/)**
 - 📫 Mail me @[preethikashet07@gmail.com](𝚖𝚊𝚒𝚕𝚝𝚘:preethikashet07@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖)
